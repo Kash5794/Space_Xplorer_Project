@@ -1,0 +1,17 @@
+
+footer{
+    background-color:rgb(12, 29, 65);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    position: absolute;
+    bottom: 0px;
+    gap: 30px;
+    height: 5rem; 
+    
+}
+a{
+    text-decoration: none;
+}

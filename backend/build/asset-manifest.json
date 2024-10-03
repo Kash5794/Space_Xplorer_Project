@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e6f8200.css",
+    "main.js": "/static/js/main.324743a0.js",
+    "static/media/nasa.png": "/static/media/nasa.9426f78c93501641952b.png",
+    "static/media/mars.png": "/static/media/mars.d3c19188c443b2b73352.png",
+    "index.html": "/index.html",
+    "main.1e6f8200.css.map": "/static/css/main.1e6f8200.css.map",
+    "main.324743a0.js.map": "/static/js/main.324743a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e6f8200.css",
+    "static/js/main.324743a0.js"
+  ]
+}
